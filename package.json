@@ -10,6 +10,8 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "iconv-lite": "^0.4.16"
+    "iconv-lite": "^0.4.16",
+    "jschardet": "^1.4.2",
+    "minimist": "^1.2.0"
   }
 }
